@@ -1,4 +1,4 @@
-git# import addition
+# import addition
 # import multiplication
 import calculator
 def test_integration():
