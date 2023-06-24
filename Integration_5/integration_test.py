@@ -1,4 +1,4 @@
-git# import addition
+# import addition
 # import multiplication
 import calculator
 def test_integration():
@@ -7,7 +7,7 @@ def test_integration():
 
 
 
-## Unit testing
+##Unit testing
 
 # def test_addition():
 #     assert calculator.add(2, 3) == 5
